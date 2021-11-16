@@ -1,0 +1,11 @@
+{
+
+    "username": "batman",
+    "host": "localhost",
+    "port": "5432",
+    "password": "bat",
+    "dbname": "bats",
+    "sslmode": "disable"
+
+
+}
